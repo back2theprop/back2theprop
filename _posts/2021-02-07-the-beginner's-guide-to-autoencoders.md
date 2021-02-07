@@ -25,5 +25,5 @@ The second, unapproved, answer to the same question points to an earlier paper r
 It is worth it to spend some reading the paper as it explains with an incredible clarity the concept of a neural network with a hidden representation.
 
 ### Towards modern applications of Autoencoders
-
+A noteworthy article is 'Reducing the Dimensionality of Data with Neural Networks' by Hinton, which is maybe the first study to apply auto-encoders in the context of images.
 
