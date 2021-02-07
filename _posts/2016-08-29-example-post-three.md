@@ -1,5 +1,5 @@
 ---
-title: The beginners guide to Autoencoders
+title: The beginner's guide to Autoencoders
 categories:
 - Unsupervised Learning
 excerpt: |
