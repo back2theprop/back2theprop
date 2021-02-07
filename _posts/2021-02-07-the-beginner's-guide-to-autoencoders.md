@@ -20,6 +20,6 @@ The second, unapproved, answer to the same question points to an earlier paper r
 
 ### Learning internal representations by Error Propagation
 
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}
+{% include figure.html image="images/2021-02-07-the-beginner's-guide-to-autoencoders/figure_from_paper.png" alt="Image with just alt text" %}
 
 It is worth it to spend some reading the paper as it explains with an incredible clarity the concept of a neural network with a hidden representation.
