@@ -18,4 +18,6 @@ One of the fascinating things about the autoencoder is that there is no clear co
 
 The second, unapproved, answer to the same question points to an earlier paper released in 1986 named 'Learning internal representations by error propagation' by Rumelhart, Hinton and Williams. Which is in concordance with more recent works that also cite this work as being the first work to introduce autoencoders.
 
+### Learning internal representations by Error Propagation
 
+It is worth it to spend some reading the paper as it explains with an incredible clarity the concept of a neural network with a hidden representation.
